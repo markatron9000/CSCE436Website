@@ -19,11 +19,12 @@ h1 {
 section {
   position: relative; 
   background-size: cover;
-  height: 75vh;
+  height: 95vh;
 }
 p {
     padding-left: 2%;
     color: whitesmoke;
+    font-size: 0.9rem;
 }
 .tag {
   opacity: 0;
@@ -115,6 +116,6 @@ iframe {
 }
 textBox{
     width: 40vw;
-    height: 50vh;
+    height: 70vh;
     background-color: rgba(0, 0, 0, 0.712);
 }
